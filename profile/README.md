@@ -25,7 +25,7 @@ Currently, some things are in the insider program so you must be signed up to th
 
 **Our Team**
 
-* [**BNK (@bnklovestrollin)**](https://github.com/gamordoestrollin): **BTG Team Leader & Founder - Design, Program, Develop. Languages and Translations: English Language & Persian**.
+* [**BNK (@bnklovestrollin)**](https://github.com/gamordoestrollin): **BTG Team Leader & Founder - Design, Program, Develop. Languages and Translations: English Language & Persian/Farsi/Parsi/فارسی/پارسی/پرشین**.
 * [**Jacob KungFu (@jafu-py)**](https://github.com/jafu-py): **Programming, Development & Designing.**
 * [**SafeBoot (@safeboot)**](https://github.com/safeboot): **Programming & Development.**
 * [**Nerd (@NRDsstuff)**](https://github.com/nrdsstuff): **Designer.**
