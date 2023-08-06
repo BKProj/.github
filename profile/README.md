@@ -1,3 +1,5 @@
+# OUTDATED
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/.github/main/BTGBanner.png" />
   <div class="row" align="center">
